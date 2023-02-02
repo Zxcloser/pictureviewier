@@ -1,0 +1,22 @@
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe.config
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\bin\Debug\pictureviewer.pdb
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Form1.resources
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Properties.Resources.resources
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\obj\Debug\pictureviewer.exe
+C:\Users\student\Desktop\Тарарака\pictureviewer\pictureviewer\obj\Debug\pictureviewer.pdb
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe.config
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\bin\Debug\pictureviewer.pdb
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Form1.resources
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Properties.Resources.resources
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.GenerateResource.cache
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\obj\Debug\pictureviewer.exe
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\pictureviewer\pictureviewer\obj\Debug\pictureviewer.pdb
